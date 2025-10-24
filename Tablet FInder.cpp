@@ -45,6 +45,7 @@ int main()
         cout<<"\n There is no ideal tablet: ";
     }
     else
-        cout<<"\n The best template is at postion: "<<index+1<<" with area: "<<best_area;
+        cout<<"\n The best tablet is at postion: "<<index+1<<" with area: "<<best_area;
 
 }
+
